@@ -1,4 +1,4 @@
-## Курс ЯП "Python Backend Developer"
+## Python Backend Developer
 
 ### Сборник решений алгоритмов
 
